@@ -1,0 +1,21 @@
+.background-menu{
+  background-color: #080e1f;
+}
+
+.fundoPrincipal {
+  background-color: #16324d;
+}
+body {
+    background-image: url("../img/bg3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.git{
+  opacity:1;
+}
+.git:hover{
+  opacity: 0.4;
+}
+.inline{
+display: inline;
+}
